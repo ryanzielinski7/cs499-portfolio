@@ -10,10 +10,10 @@
 - **Narrative:** [Software Design and Engineering Narrative](narratives/Software_Design_Enhancement.docx)
 
 ### Algorithms and Data Structures
-- **Artifact:** [Algorithms Enhancement](../cs320_algorithms_artifact.zip)
+- **Artifact:** [Algorithms Enhancement](../src)
 - **Narrative:** [Algorithms and Data Structures Narrative](narratives/Algorithms_Enhancement.docx)
 
 ### Databases
-- **Artifact:** [Database Artifact](../tasks.db)
+- **Artifact:** [Database Artifact](../src)
 - **Narrative:** [Database Enhancement Narrative](narratives/Database_Enhancement.docx)
 
