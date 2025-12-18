@@ -1,5 +1,9 @@
 # Professional Self-Assessment
 
+## Portfolio Navigation
+
+- [View Full Portfolio (Artifacts, Enhancements, and Code Review)](portfolio)
+
 [Download Professional Self-Assessment (Word)](narratives/Zielinski%20Professional%20Self%20Assessment.docx)
 
 ---
